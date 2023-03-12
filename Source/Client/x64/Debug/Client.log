@@ -1,0 +1,31 @@
+﻿  Help.cpp
+D:\Study\1_20127013_20127370\Source\Client\Help.cpp(20,23): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  IP_Address.cpp
+D:\Study\1_20127013_20127370\Source\Client\Main_form.h(324,20): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\1_20127013_20127370\Source\Client\Main_form.h(336,20): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\1_20127013_20127370\Source\Client\Sign_in.h(234,24): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\1_20127013_20127370\Source\Client\Sign_in.h(246,24): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\1_20127013_20127370\Source\Client\Sign_up.h(245,24): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\1_20127013_20127370\Source\Client\Sign_up.h(255,24): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\1_20127013_20127370\Source\Client\IP_Address.h(170,29): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\1_20127013_20127370\Source\Client\IP_Address.h(158,8): warning C4101: 'recvbuf': unreferenced local variable
+D:\Study\1_20127013_20127370\Source\Client\IP_Address.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Main_form.cpp
+D:\Study\1_20127013_20127370\Source\Client\Main_form.h(324,20): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\1_20127013_20127370\Source\Client\Main_form.h(336,20): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  Sign_in.cpp
+D:\Study\1_20127013_20127370\Source\Client\Main_form.h(324,20): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\1_20127013_20127370\Source\Client\Main_form.h(336,20): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\1_20127013_20127370\Source\Client\Sign_in.h(234,24): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\1_20127013_20127370\Source\Client\Sign_in.h(246,24): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  Sign_up.cpp
+D:\Study\1_20127013_20127370\Source\Client\Main_form.h(324,20): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\1_20127013_20127370\Source\Client\Main_form.h(336,20): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\1_20127013_20127370\Source\Client\Sign_in.h(234,24): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\1_20127013_20127370\Source\Client\Sign_in.h(246,24): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\1_20127013_20127370\Source\Client\Sign_up.h(245,24): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\1_20127013_20127370\Source\Client\Sign_up.h(255,24): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Help.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Client.vcxproj -> D:\Study\1_20127013_20127370\Source\x64\Debug\Client.exe

@@ -1,0 +1,6 @@
+D:\Study\1_20127013_20127370\Source\Client\x64\Debug\Client.vcxprojAssemblyReference.cache
+D:\Study\1_20127013_20127370\Source\Client\x64\Debug\Client.IP_Address.resources
+D:\Study\1_20127013_20127370\Source\Client\x64\Debug\Client.Main_form.resources
+D:\Study\1_20127013_20127370\Source\Client\x64\Debug\Client.Sign_in.resources
+D:\Study\1_20127013_20127370\Source\Client\x64\Debug\Client.Sign_up.resources
+D:\Study\1_20127013_20127370\Source\Client\x64\Debug\Client.vcxproj.GenerateResource.cache
